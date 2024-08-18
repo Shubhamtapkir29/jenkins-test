@@ -11,7 +11,7 @@ pipeline{
 
       steps {
 
-        echo "hello six"
+        echo "hello seven"
       }
     }
   }
