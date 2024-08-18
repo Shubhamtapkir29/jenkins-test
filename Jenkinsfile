@@ -1,6 +1,6 @@
 pipeline{
 
-  agrnt {
+  agent {
           label {
             label "slave-1"
           }
